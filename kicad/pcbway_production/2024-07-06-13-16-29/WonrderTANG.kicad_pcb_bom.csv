@@ -1,0 +1,15 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C2",2,4.7u,CP_Radial_D5.0mm_P2.50mm,,tht
+"C10, C11, C12, C5, C6, C7, C8, C9",8,104,C_Disc_D5.0mm_W2.5mm_P2.50mm,,tht
+C13,1,10uF,CP_Radial_D5.0mm_P2.00mm,,tht
+CON1,1,MSX-CONNECTOR,CARTRIDGE_MSX_NOCUT,,smt
+D1,1,uSD,LED_D3.0mm,,tht
+D2,1,1N5817,D_DO-41_SOD81_P10.16mm_Horizontal,,tht
+J2,1,AudioJack3,SJ1-3523N,,tht
+J3,1,AUDIO,PinHeader_2x01_P2.54mm_Vertical,,tht
+"Q1, Q2",2,2N3904,TO-92_Inline_Wide,,tht
+R1,1,330,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,tht
+R4,1,4.7k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,tht
+"R5, R6",2,2.2K,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,tht
+"U1, U2, U3, U4, U6",5,SN74LVC245AN,DIP-20_W7.62mm_LongPads,,tht
+U5,1,Tang_Nano_20k,Tang_Nano_20k_Audio,,tht
