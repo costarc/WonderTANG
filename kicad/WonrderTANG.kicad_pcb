@@ -10,7 +10,7 @@
 	(title_block
 		(title "MSX-IDE 2021")
 		(date "2021-08-05")
-		(rev "2.0b _rcc_0")
+		(rev "2.0b (RCC Rev 0)")
 		(company "MSXmakers")
 		(comment 1 "Original board design, but sizes reduced and removed solder mask in the edge connenctor.")
 	)
@@ -14151,7 +14151,7 @@
 			)
 		)
 	)
-	(gr_text "2024 V2.0b\nLUIS ANTONIOSI"
+	(gr_text "2024 V2.0b (RCC REV 0)\nLUIS ANTONIOSI"
 		(at 82.225 105.41 90)
 		(layer "F.SilkS")
 		(uuid "b7d4d3d1-0c71-42fb-afbb-1043b5969346")
