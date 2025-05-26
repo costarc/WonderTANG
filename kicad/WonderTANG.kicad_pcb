@@ -267,7 +267,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1dc2ab85-4a4e-4ed1-987e-77662e63b676")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -490,7 +490,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4f71847a-239c-4c80-9cc6-9bc8580b426c")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.554775 -1.475)
@@ -1846,7 +1846,7 @@
 		(property ki_fp_filters "D*DO?41*")
 		(path "/b575565e-08ba-4327-92cc-a2ac5e3c9b81")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -2193,7 +2193,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/85855820-e1b9-4db5-853a-31332b8307ef")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -2416,7 +2416,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7c718a5e-8ffa-4024-a62b-6724f5e8c432")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -2639,7 +2639,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/342bb4aa-f000-47a5-a14c-7dc933772893")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 -1.37)
@@ -2862,7 +2862,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/c16e04b4-be5c-4d51-a451-6545e2231215")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -3316,7 +3316,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/990cd9d6-dbe3-4899-a9e3-e6184d6d29ae")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3579,7 +3579,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/adebba55-1f23-46da-be2a-56b29da75b06")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.1 2.92)
@@ -4124,7 +4124,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/75a47471-bb3f-464d-83e6-6db9f1c2d6a7")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -4387,7 +4387,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/5676cecc-88f6-4f4d-a98e-7a63626105ee")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start 6 3.3)
@@ -4980,7 +4980,7 @@
 		)
 		(path "/f6ca9f30-3208-4f6e-ac16-efafdf2c82ed")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -55.245 -18.415)
@@ -5657,7 +5657,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/529ea8b2-77e0-4bd8-b8bc-83d6b66e0bb7")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -7003,7 +7003,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/b15597d0-8839-4577-ac76-f74461c92fc8")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.74 1.85)
@@ -7245,7 +7245,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/648f0ced-858e-4013-97ea-743f639d47dc")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -7699,7 +7699,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f809ad11-fa9a-4611-a03c-218ea59b2718")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -7962,7 +7962,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/e80b176c-af36-46fa-aa3a-ba7ddcecd779")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -8416,7 +8416,7 @@
 		)
 		(path "/af12c555-9a08-494d-8086-2b7c7303a2fa")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.905 49.53)
@@ -8981,7 +8981,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fa4b5f16-a55c-4609-9105-7da082f1ce9e")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -9204,7 +9204,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/797a7c2c-2816-4404-a969-5dc7cb9ec4d0")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -9427,7 +9427,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/953daf70-d4d7-43b5-9fd6-56ae8e33a758")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -9650,7 +9650,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6793afeb-5da5-4e1f-9a97-174ae426ce92")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -9880,7 +9880,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ee153024-974a-453d-888b-c70bce2d6045")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -10103,7 +10103,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/84b63230-a70d-4332-a0e1-11d8769313a9")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -10557,7 +10557,7 @@
 		(property ki_fp_filters "DIP?20*")
 		(path "/2e0069e5-bc84-420c-b1e7-ad7079397ce4")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.56 -1.33)
@@ -11011,7 +11011,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/44c96ac3-4cb5-4d7d-80b4-6edd6de21ccf")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.554775 -1.475)
@@ -12367,7 +12367,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/ce97a384-a9ac-4490-a214-0385397ad105")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.74 1.85)
@@ -12609,7 +12609,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9a1ce531-cefa-497c-904b-8bf0bc431f0c")
 		(sheetname "/")
-		(sheetfile "WonrderTANG.kicad_sch")
+		(sheetfile "WonderTANG.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
